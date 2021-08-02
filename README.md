@@ -1,6 +1,7 @@
 ## A Narrative visualization project for DV416 
 
-Visit: https://github.com/chiku21/dv416final.git
+Web URL : https://chiku21.github.io/index.html
+Repo    : https://github.com/chiku21/chiku21.github.io
 
 ### ABOUT THE VISUALIZATION
 This narrative visualization uses the Interactive Slideshow approach to take you through a visual journey of the housing market from Jan 2010 to July 2021 in the Greater Seattle Metro area.
